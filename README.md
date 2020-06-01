@@ -2,7 +2,7 @@
 
 ### Application Deployed To GitHub Pages 
 
-https://priyaravi23.github.io/dom-login-form/
+https://priyaravi23.github.io/vanilla-form-validation/
 
 ### Description 
 
